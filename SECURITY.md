@@ -1,4 +1,4 @@
-# Политика безопасности / Security Policy
+# 🛡️ Политика безопасности / Security Policy
 
 ## Поддерживаемые версии / Supported Versions
 
@@ -18,14 +18,20 @@ The table below shows which versions of the game are currently receiving securit
 
 ---
 
-## Сообщить об уязвимости / Reporting a Vulnerability
+## Сообщить об уязвимости или ошибке / Reporting a Vulnerability or Bug
 
 ### 🇷🇺 Русский
-Если вы обнаружили критический баг, уязвимость или способ обхода игровой механики, пожалуйста, сообщите об этом:
-* Создайте обращение во вкладке **Issues** этого репозитория (для обычных игровых багов).
-* Если проблема касается безопасности и её не стоит публиковать открыто, свяжитесь с разработчиком напрямую через профиль GitHub.
+Если вы обнаружили критический баг, уязвимость или способ обхода игровой механики, пожалуйста, сообщите об этом любым удобным способом:
+
+* 📧 **По электронной почте (приватно):** Напишите напрямую на [hvostikhvostl@gmail.com] — этот способ лучше всего подходит для серьезных уязвимостей, которые не стоит публиковать в открытом доступе.
+* 🐞 **Через GitHub Issues (публично):** Создайте обращение во вкладке [Issues](../../issues) этого репозитория — подходит для обычных игровых багов, вылетов и ошибок интерфейса.
+
+Пожалуйста, по возможности приложите скриншот или подробно опишите, как воспроизвести проблему.
 
 ### 🇬🇧 English
-If you discover a critical bug, security vulnerability, or exploit, please report it:
-* Open an issue in the **Issues** tab of this repository (for general game bugs).
-* If the issue is security-sensitive and should not be disclosed publicly, please contact the developer directly via their GitHub profile.
+If you discover a critical bug, security vulnerability, or exploit, please report it in any convenient way:
+
+* 📧 **Via Email (Privately):** Send a message directly to [hvostikhvostl@gmail.com] — this method is best for serious security vulnerabilities that should not be disclosed publicly.
+* 🐞 **Via GitHub Issues (Publicly):** Open a ticket in the [Issues](../../issues) tab of this repository — suitable for general gameplay bugs, crashes, and UI issues.
+
+If possible, please attach a screenshot or provide steps to reproduce the issue.
