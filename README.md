@@ -1,13 +1,13 @@
 ## 🎮 Как скачать и играть / How to Download & Play
 
 ### 🇷🇺 Русский
-Установка дополнительных программ не требуется — игра уже собрана в один файл.
+Установка дополнительных программ не требуется — игра уже собрана в один автономный файл.
 
 1. Перейдите в раздел **Releases** (справа на странице репозитория).
 2. Скачайте файл **`MinerSimulator.exe`** из последнего релиза.
 3. Запустите скачанный `.exe` файл двойным кликом и наслаждайтесь игрой!
 
-> **Важно:** При первом запуске Windows SmartScreen может показать окно *«Система Windows защитила ваш компьютер»* (это стандартная реакция на новые `.exe` без платной цифровой подписи). Чтобы запустить игру, нажмите **«Подробнее»** → **«Выполнить в любом случае»**.
+> 🛡️ **Примечание о безопасности:** При первом запуске **Windows SmartScreen** или **любой другой антивирус** могут выдать предупреждение о неизвестном файле. Это стандартная ложная реакция защиты на инди-игры, собранные в один `.exe` без дорогой цифровой подписи. Игра абсолютно безопасна: просто нажмите **«Подробнее» → «Выполнить в любом случае»** (или добавьте файл в исключения вашего антивируса).
 
 ---
 
@@ -18,4 +18,4 @@ No additional software installation is required — the game is packaged into a 
 2. Download the **`MinerSimulator.exe`** file from the latest release.
 3. Double-click the downloaded `.exe` file to launch the game and enjoy!
 
-> **Note:** On first launch, Windows SmartScreen may show a *"Windows protected your PC"* popup (this is normal for new `.exe` files without a paid digital signature). To run the game, click **"More info"** → **"Run anyway"**.
+> 🛡️ **Security Note:** On first launch, **Windows SmartScreen** or **any other antivirus** may flag the file as unrecognized. This is a common false positive for indie games packaged into a single `.exe` without an expensive digital signature. The game is completely safe — simply click **"More info" → "Run anyway"** (or add the file to your antivirus exclusions).
