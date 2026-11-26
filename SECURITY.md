@@ -7,14 +7,14 @@
 
 | Версия | Статус поддержки |
 | :--- | :---: |
-| **2.0.0 beta** | :white_check_mark: Поддерживается |
+| **1.0.0 beta** | :white_check_mark: Поддерживается |
 
 ### 🇬🇧 English
 The table below shows which versions of the game are currently receiving security updates and bug fixes.
 
 | Version | Supported |
 | :--- | :---: |
-| **2.0.0 beta** | :white_check_mark: Supported |
+| **1.0.0 beta** | :white_check_mark: Supported |
 
 ---
 
